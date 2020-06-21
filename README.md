@@ -1,14 +1,16 @@
 # pokemon
 
+## Path
+```
+cd repo_pokedox
+```
+
 ## Project setup
 ```
 npm install
 ```
 
-## Path
-```
-cd repo_pokedox
-```
+
 
 ### Compiles and hot-reloads for development
 ```
